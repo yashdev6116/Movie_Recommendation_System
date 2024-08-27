@@ -12,7 +12,7 @@ Scalability: Designed to handle large datasets efficiently.
 
 
 
-The script primarily uses the following algorithms and techniques for the Movie Recommendation System:
+The file primarily uses the following algorithms and techniques for the Movie Recommendation System:
 Text Preprocessing and Stemming:
 Porter Stemmer: 
 Used for stemming words to their root forms to improve the effectiveness of text matching.
